@@ -1,0 +1,34 @@
+{
+    "id": "Deutsch",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Deutsch"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v28",
+    "outDir": "./",
+    "idPattern": "^[abcdefghprqstuvxyz]{1}[2345679]{1}[abcdefghprqstuvxyz]{1}$",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "ts",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Textsorte"
+          }
+        ],
+        "filenameSource": "ts_Textsorte.csv",
+        "filenameTarget": "ts_Textsorte.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
+  
