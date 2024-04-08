@@ -15,17 +15,10 @@ n1:x4q
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "expositorisch"@de.
-n1:g2u
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "temp"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Deutsch - Textsorte"@de;
 	skos:hasTopConcept
 		n1:u5u,
-		n1:x4q,
-		n1:g2u.
+		n1:x4q.
