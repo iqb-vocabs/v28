@@ -28,7 +28,40 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "tt",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Texttyp"
+          }
+        ],
+        "filenameSource": "tt_Texttyp.csv",
+        "filenameTarget": "tt_Texttyp.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dv",
+        "title": [
+          {
+            "lang": "de",
+            "value":  "Deutsch Variante"
+          }
+        ],
+        "filenameSource": "dv_Variante.csv",
+        "filenameTarget": "dv_Variante.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }
-  
