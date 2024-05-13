@@ -40,6 +40,12 @@ n1:a6z
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Sachtext diskontinuierlich"@de.
+n1:s2e
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -52,4 +58,5 @@ n0:
 		n1:x5p,
 		n1:g7v,
 		n1:a7d,
-		n1:a6z.
+		n1:a6z,
+		n1:s2e.
