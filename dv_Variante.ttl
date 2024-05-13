@@ -43,9 +43,9 @@ n1:s4p
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Deutsch - Deutsch Variante"@de;
-	dc:title "Deutsch - Deutsch Variante"@de;
-	dc:description "Deutsch - Deutsch Variante"@de;
+	dct:title "Deutsch - Variante"@de;
+	dc:title "Deutsch - Variante"@de;
+	dc:description "Deutsch - Variante"@de;
 	skos:hasTopConcept
 		n1:d3b,
 		n1:q4y,

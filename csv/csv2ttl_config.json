@@ -51,11 +51,28 @@
         "title": [
           {
             "lang": "de",
-            "value":  "Deutsch Variante"
+            "value":  "Variante"
           }
         ],
         "filenameSource": "dv_Variante.csv",
         "filenameTarget": "dv_Variante.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "aq",
+        "title": [
+          {
+            "lang": "de",
+            "value":  "Art der Quelle(n)"
+          }
+        ],
+        "filenameSource": "aq_Art_der_Quelle.csv",
+        "filenameTarget": "aq_Art_der_Quelle.ttl",
         "description": [
           {
             "lang": "de",
