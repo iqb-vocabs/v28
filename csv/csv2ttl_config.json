@@ -30,23 +30,6 @@
         ]
       },
       {
-        "id": "tt",
-        "title": [
-          {
-            "lang": "de",
-            "value": "Texttyp"
-          }
-        ],
-        "filenameSource": "tt_Texttyp.csv",
-        "filenameTarget": "tt_Texttyp.ttl",
-        "description": [
-          {
-            "lang": "de",
-            "value": ""
-          }
-        ]
-      },
-      {
         "id": "dv",
         "title": [
           {
