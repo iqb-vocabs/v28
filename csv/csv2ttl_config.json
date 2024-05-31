@@ -47,6 +47,23 @@
         ]
       },
       {
+        "id": "ss",
+        "title": [
+          {
+            "lang": "de",
+            "value":  "Textsorte Sek I"
+          }
+        ],
+        "filenameSource": "ss_Textsorte_SekI.csv",
+        "filenameTarget": "ss_Textsorte_SekI.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
         "id": "aq",
         "title": [
           {
